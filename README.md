@@ -6,7 +6,7 @@
 </div>
 
 #### I'm happy to have you here! I am a programmer passionate about challenges.
-- 🔭 I’m currently working on the [Southsystem](https://southsystem.com.br/) as Backend Develop
+- 🔭 I’m currently working on the [South System](https://southsystem.com.br/) as Backend Develop
 - 🧑‍💻 Currently learn about Elixir and Go
 - 😄 Pronouns: he/him/his
 
