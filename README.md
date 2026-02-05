@@ -25,7 +25,7 @@
 
 ```typescript
 const rafael = {
-  location: "Campina Grande, Paraíba, Brazil 🇧🇷",
+  location: "Juazeiro, Bahia, Brazil 🇧🇷",
   role: "Senior Software Engineer | Full Stack & Solutions Architect",
   experience: "8+ years building scalable systems",
   focus: ["Distributed Systems", "Microservices", "High-Performance APIs"],
